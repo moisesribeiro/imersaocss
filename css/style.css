@@ -1,0 +1,33 @@
+body{
+    background: #DCDCDC;
+  }
+  
+  .menu{
+    background-color: #FAF0E6;
+  }
+  
+  a{
+    color: DarkSlateBlue;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li{
+    list-style: none;
+  }
+  .site-subtitle,
+  .site-title{
+    color: DimGray;
+    text-align: center;
+  }
+  
+  .site-subtitle{
+    font-style: italic;
+  }
